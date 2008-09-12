@@ -12,16 +12,17 @@ Tested up to: 2.6
 Stable tag: trunk
 
 
+Adds links for submitting to Digg, Delicious, Buzz, and Stumble to pages and posts.
 
-This plugin is for adding submission links for Digg, Delicious, Buzz, and Stumble to pages and posts.
-
- Great for building link traffic to your blog or for Search Engine Optimization (SEO).
+ Great for SEO or building traffic.
 
 == Description ==
 
 
 
-This plugin is for adding submission links for Digg, Delicious, Buzz, and Stumble to pages and posts. It allows you to choose between six options of pages/posts to add to. They are 
+This plugin is for adding submission links for Digg, Delicious, Buzz, and Stumble to pages and posts.  
+This plugin is useful for building traffic to your website and also for Search Engine Optimization (SEO). 
+It allows you to choose between six options of pages/posts to add to. They are: 
 
 1. Home page (if it is a page)
 
