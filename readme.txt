@@ -58,5 +58,4 @@ It allows you to choose between six options of pages/posts to add to. They are:
 == Screenshots ==
 
  
-screenshot.png
-
+http://svn.wp-plugins.org/simple-submit/trunk/screenshot.png
