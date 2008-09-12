@@ -57,6 +57,6 @@ It allows you to choose between six options of pages/posts to add to. They are:
 
 == Screenshots ==
 
-1. 
+ 
 screenshot.png
 
